@@ -27,6 +27,25 @@ CNSA 数据标准
 
 
 
+| 字段名                   | 缩写          | 字段描述                                        | 字段类型 | 是否必填 | 是否唯一性字段 | 取值范围 | 示例 | 注解 |
+| --------------------------- | --------------- | --------------------------------------------------- | -------- | -------- | -------------- | -------- | ---- | ---- |
+| First name                  | first_name      | First (given) name of the submitter.                | varchar  | 必填   | 否            | 128      | wang |      |
+| Middle name                 | middle_name     | Middle name of the submitter.                       | varchar  | 选填   | 否            | 128      |      |      |
+| Last name                   | last_name       | Last (family) name of the submitter.                | varchar  | 必填   | 否            | 128      |      |      |
+| Primary E-mail              | email_primary   | Primary Email address of the submitter.             | varchar  | 必填   | 否            | 128      |      |      |
+| Secondary E-mail            | email_secondary | Secondary/Alternate Email address of the submitter. | varchar  | 选填   | 否            | 128      |      |      |
+| Submitting organization     | organization    | Full name of submitter’s organization.            | varchar  | 必填   | 否            | 128      |      |      |
+| Submitting organization URL | org_url         | The URL of submitter’s organization.              | varchar  | 选填   | 否            | 128      |      |      |
+| Department                  | department      | The department of the submitter.                    | varchar  | 必填   | 否            | 128      |      |      |
+| Phone                       | phone           | The phone number of the submitter.                  | varchar  | 选填   | 否            | 128      |      |      |
+| Fax                         | fax             | The Fax number of the submitter.                    | varchar  | 选填   | 否            | 128      |      |      |
+| Street                      | street          | The street name of the submitter.                   | varchar  | 必填   | 否            | 256      |      |      |
+| City                        | city            | The city name of the submitter.                     | varchar  | 必填   | 否            | 128      |      |      |
+| Postal code                 | postal_code     | The Postal code of the submitter.                   | varchar  | 选填   | 否            | 128      |      |      |
+| State/Province              | state_province  | The state/province of the submitter.                | varchar  | 选填   | 否            | 64       |      |      |
+| Country                     | country         | The Country/Region of the submitter.                | varchar  | 必填   | 否            | 64       |      |      |
+
+
 目录
 ------
 
