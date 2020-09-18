@@ -17,11 +17,12 @@ CNSA 数据标准
 
 	下载文档
 
-文档的用途有很多：
+数据标准文档：
 
 * 变异数据标准
 * 提交人数据标准
-* 样本数据标准<https://github.com/metoru/CNSA-data-Standards/blob/master/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E6%A0%87%E5%87%86-zl.xlsx>`_
+* - `样本数据标准 <https://github.com/metoru/CNSA-data-Standards/blob/master/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E6%A0%87%E5%87%86-zl.xlsx>`_
+* 
 * ...
 
 
