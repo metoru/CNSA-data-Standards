@@ -6,7 +6,7 @@
 
 
 
-文档编排
+CNSA 数据标准
 ===========
 
 
@@ -15,28 +15,16 @@
 
 ::
 
-	俗话说：不会写文档的程序员都是在耍流氓
+	下载文档
 
 文档的用途有很多：
 
-* 知识框架梳理
-* 项目帮助文档
-* 项目API文档
-* 电子书
+* 变异数据标准
+* 提交人数据标准
+* 样本数据标准<https://github.com/metoru/CNSA-data-Standards/blob/master/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E6%A0%87%E5%87%86-zl.xlsx>`_
+* ...
 
-现有的编写文档方式有很多：
 
-.. csv-table::
-	:header: 写作方式, `标记语言 <http://www.worldhello.net/gotgithub/appendix/markups.html>`_ , 应用场景
-	:widths: 15, 15, 30
-
-	`GitHub Wiki <https://help.github.com/categories/wiki/>`_ ,  `Markdown <https://daringfireball.net/projects/markdown/syntax>`_ , 知识框架梳理等
-	`Gitbook <https://www.gitbook.com/explore>`_ , `Markdown <https://daringfireball.net/projects/markdown/syntax>`_, 知识框架梳理、电子书等
-	`Sphinx <http://www.sphinx-doc.org/en/stable/contents.html>`_ , `reStructuredText <http://jwch.sdut.edu.cn/book/rst.html>`_ / `Markdown <https://daringfireball.net/projects/markdown/syntax>`_ , 项目帮助文档、项目API文档、电子书等
-
-当然，还有其它的方式，比如： `CSDN博客` 、`博客园` 、`私有博客` 等；但是博客有一致命弱点：**编排杂乱，不便索引**
-
-该系列文章将围绕上述3种主流的文档编排方式进行展开说明。
 
 目录
 ------
